@@ -1,4 +1,4 @@
-/**
+/*
 	Calculates n-th Fibonacci Number and prints it
 */
 

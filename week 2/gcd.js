@@ -1,4 +1,4 @@
-/**
+/*
 	Calculates greatest common divisor and prints it
 */
 

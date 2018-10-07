@@ -1,5 +1,5 @@
 /*
-    Calculate last digit of fibonacci numbers sum
+    Calculates last digit of fibonacci numbers sum
 */
 #include <iostream>
 

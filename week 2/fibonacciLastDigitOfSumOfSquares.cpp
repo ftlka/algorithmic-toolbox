@@ -1,5 +1,5 @@
 /*
-    Calculate last digit of fibonacci numbers sum of squares
+    Calculates last digit of fibonacci numbers sum of squares
 */
 #include <iostream>
 

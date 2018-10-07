@@ -1,4 +1,4 @@
-/**
+/*
 	Calculates n-th Fibonacci Number's last digit and prints it
 */
 
