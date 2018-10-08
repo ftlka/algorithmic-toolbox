@@ -35,7 +35,7 @@ double calculateValue(int capacity, vector<Item> items) {
 }
 
 bool cmp(Item a, Item b) { 
-    return a.value > b.value; 
+  return a.value > b.value; 
 } 
 
 int main() {
