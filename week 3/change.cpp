@@ -22,7 +22,8 @@ int getChange(int m) {
 }
 
 int main() {
-  int m;
-  cin >> m;
-  cout << getChange(m) << endl;
+	int m;
+	cin >> m;
+	cout << getChange(m) << endl;
+	return 0;
 }
