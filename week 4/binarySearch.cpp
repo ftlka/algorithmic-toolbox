@@ -11,7 +11,7 @@ using namespace std;
 int binarySearch(const vector<int>& a, int x) {
 	int left = 0, right = a.size() - 1, mid;
 	while (left <= right) {
-		mid =  (right + left) / 2;
+		mid = (right + left) / 2;
 		if (a[mid] == x) {
 			return mid;
 		} else if (a[mid] > x) {
